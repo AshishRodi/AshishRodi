@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **Employee Retention Prediction System**
+- 🔭 I’m currently working on **CloudRail: AWS based ticketing system**
 
 - 🌱 I’m currently learning **React JS and Node JS**
 
